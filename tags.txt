@@ -1,0 +1,7 @@
+Working with tags.......
+git remote -v
+origin  https://github.com/SreejaPakkiru/git-practice.git (fetch)
+origin  https://github.com/SreejaPakkiru/git-practice.git (push)
+Tags always point to a commit, never to uncommitted changes.
+
+You might see the tag created, but it doesn’t “save” your new file.
